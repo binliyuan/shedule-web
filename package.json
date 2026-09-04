@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite --host --port 3000",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "serve": "node server.js"
   },
   "dependencies": {
     "vue": "^3.5.0",
